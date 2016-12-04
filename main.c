@@ -7,6 +7,7 @@ int main()
     int top , totalquantity=0 , quantity;
     float total=0 , sum =0;
 
+    printf("**Sandwich Bar**\n\n\n ");//NIp Add ths
     printf("** What Type Of Bread - \nBaguette - B \nFoccacia - F \nCiabatta - C \nType The Letter - ");
     scanf("%c",&bread);
 
